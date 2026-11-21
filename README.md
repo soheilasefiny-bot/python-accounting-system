@@ -11,8 +11,7 @@ The application is designed to simplify employee management, payroll calculation
 - Payment Records Management
 - Overtime Calculation
 - Monthly Salary Reports
-- Persian User Interface
-- Potential for Multilingual Support
+- Custom-designed Graphical User Interface (GUI)
 
 ## Technologies Used
 
@@ -20,23 +19,21 @@ The application is designed to simplify employee management, payroll calculation
 - Tkinter
 - PNG Image Assets
 
-## Language Support
+## Development Capabilities
 
-The current application interface is in Persian (Farsi).
-
-The application can be adapted and developed to support multiple languages, making it suitable for international users.
+The application can be customized and developed for different languages and user requirements.
 
 ## Installation & Usage
 
 1. Download or clone this repository.
-2. Make sure Python is installed.
+2. Make sure Python is installed on your computer.
 3. Run the main Python file.
 
 ## Project Structure
 
 - Python source files – Application logic
 - PNG files – User interface assets
-- Text files – Supporting project resources
+- Supporting files – Additional project resources
 
 ## Author
 
